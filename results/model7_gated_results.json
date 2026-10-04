@@ -1,0 +1,17 @@
+{
+  "model": "Model 7 - GaitFuseNet (Cross-modal Attention + Gated Fusion)",
+  "classification_window_level": {
+    "accuracy": 0.8559977097051246,
+    "precision": 0.8632478632478633,
+    "recall": 0.8674181427804616,
+    "f1": 0.8653279785809906,
+    "auroc": 0.9399895939328676
+  },
+  "classification_subject_level_auroc": 0.9642857142857143,
+  "regression": {
+    "mae": 9.767350196838379,
+    "rmse": 13.2574462890625
+  },
+  "n_test_subjects": 26,
+  "total_parameters": 355138
+}
