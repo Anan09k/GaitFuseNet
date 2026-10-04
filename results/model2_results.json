@@ -1,0 +1,16 @@
+{
+  "model": "Model 2 - Insole only",
+  "classification_window_level": {
+    "accuracy": 0.49126825078728886,
+    "precision": 0.5319940476190477,
+    "recall": 0.3837895866881374,
+    "f1": 0.4458995946367321,
+    "auroc": 0.5201181220341885
+  },
+  "classification_subject_level_auroc": 0.5892857142857143,
+  "regression": {
+    "mae": 11.242250442504883,
+    "rmse": 12.64471435546875
+  },
+  "n_test_subjects": 26
+}
