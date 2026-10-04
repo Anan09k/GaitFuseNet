@@ -238,8 +238,9 @@ GaitFuseNet/
 |-- figures/
 |   |-- methodology_pipeline.png
 |
-|-- report/
-|   |-- GaitFuseNet_Report.pdf
+|-- results/
+|   |-- architecture_selection/
+    |-- cross_validation/
 |
 |-- data/
 |   |-- README.md
